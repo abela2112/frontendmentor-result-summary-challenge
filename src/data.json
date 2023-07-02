@@ -1,0 +1,26 @@
+[
+  {
+    "category": "Reaction",
+    "score": 80,
+    "icon": "reaction",
+    "color": "Lightred"
+  },
+  {
+    "category": "Memory",
+    "score": 92,
+    "icon": "memory",
+    "color": "Orangeyyellow"
+  },
+  {
+    "category": "Verbal",
+    "score": 61,
+    "icon": "verbal",
+    "color": "Greenteal"
+  },
+  {
+    "category": "Visual",
+    "score": 72,
+    "icon": "visual",
+    "color": "Cobaltblue"
+  }
+]
