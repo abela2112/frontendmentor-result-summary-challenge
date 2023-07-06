@@ -42,7 +42,7 @@ function App() {
                 <span className='text-blue-400'>Visual</span></div>
               <div>72<span className='text-slate-300'>/100</span></div>
             </div>
-            <button className='bg-blue-900 hover:bg-gradient-to-b from-LightSlateBlue to-LightRoyalBlue px-4 py-3 rounded-full text-white text-2xl mt-4 sm:mt-8 items-center'>Continue</button>
+            <button className='bg-black hover:bg-gradient-to-b from-LightSlateBlue to-LightRoyalBlue px-4 py-3 rounded-full text-white text-2xl mt-4 sm:mt-8 items-center'>Continue</button>
           </div>
         </div>
 
